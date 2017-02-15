@@ -228,10 +228,9 @@ background-color: #fff;
 
 .about{width: 100%;margin: 0;margin-top: 30px;}
 .banner>div{
-	width: 300px;
+	width: 25%;
 
-	padding-left: 25px;
-	padding-right: 5px;
+
 }
 .banner>div:hover a{
 	color: #000;
@@ -243,8 +242,10 @@ background-color: #fff;
 .banner img{height: 200px;border-radius: 5px;}
 .pro {	
 	height: 270px;
-
+	width: 90%;
+	margin: 0 auto;
 }
+.pro img{width: 100%;}
 .pro p, .pro h3{margin-top: 10px;text-indent: 1em;}
 .pro a{
 	color: #666;
